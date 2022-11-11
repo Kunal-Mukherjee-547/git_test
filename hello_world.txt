@@ -4,3 +4,4 @@ Anyway, I think you have already guessed what should be the content of this file
 That's right!
 "Hello World!"
 Now let's add a commit messege.
+I should have written the "Hello World" at the last line.
