@@ -1,0 +1,5 @@
+My first time using git in command line. 
+It's intersting!
+Anyway, I think you have already guessed what should be the content of this file.
+That's right!
+"Hello World!"
